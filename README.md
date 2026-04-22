@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Riverside-San Bernardino-Ontario Metro Area, CA, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `355836` |
 | Location | Riverside-San Bernardino-Ontario, CA |
 | Category | Restaurants |
-| Full dataset size | 237 records |
-| Free sample size | 23 records (9.7%) |
-| Last export | 2026-04-15T06:19:22.287574+00:00 |
+| Full dataset size | 202 records |
+| Free sample size | 20 records (9.9%) |
+| Last export | 2026-04-22T12:16:06.660670+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-riverside-san-bernardino-ontario-metro-area-ca-us-sample-355836/releases/download/sample-latest/beamstation_355836_restaurants-us-riversidesanbernardinoontarioca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
