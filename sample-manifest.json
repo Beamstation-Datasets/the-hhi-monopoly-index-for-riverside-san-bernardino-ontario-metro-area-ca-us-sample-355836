@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f5d3a9f4-3b7e-420d-8c24-da6430751936",
+  "export_job_id": "15f857d3-9f42-4b29-a383-92447f09745b",
   "id_short": 355836,
-  "published_at": "2026-04-22T19:37:15Z",
+  "published_at": "2026-04-30T07:19:51Z",
   "repo_name": "the-hhi-monopoly-index-for-riverside-san-bernardino-ontario-metro-area-ca-us-sample-355836",
   "sample_asset_name": "beamstation_355836_restaurants-us-riversidesanbernardinoontarioca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/355836/beamstation_355836_restaurants-us-riversidesanbernardinoontarioca_SAMPLE_DIST.csv",
-  "sample_records": 20,
-  "sample_sha256": "ce562034b18dad50ad1f5650e299915cbce6cc31181ee03b999098b536284ba1",
-  "sample_size_bytes": 94124,
-  "total_records": 202
+  "sample_records": 18,
+  "sample_sha256": "5af4f911b34893b52ae99dc4dcf218dde44bb34ee2eea9175c89682697c23611",
+  "sample_size_bytes": 78386,
+  "total_records": 184
 }
